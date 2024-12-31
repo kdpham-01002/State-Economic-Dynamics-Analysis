@@ -16,17 +16,17 @@ This project provides an in-depth analysis of state-level economic and demograph
 - **Identify** patterns and correlations between economic indicators.
 - **Present** findings via interactive dashboards to enable data-driven decision-making.
 
-## Tools and Techniques
-- **Data Processing**: Python, Excel
-- **Visualization**: Excel Charts & Macros
-- **Analysis Techniques**: Statistical analysis, trend identification, and correlation mapping.
-
 ## Dataset Overview
 The project integrates data from multiple sources:
 - **Population Data**: Historical and current population statistics by state.
 - **Income and Expense Data**: Trends in median income and state expenses.
 - **Unemployment Rates**: Historical unemployment data across U.S. states.
 - **Cost of Living**: 2023 cost of living indices.
+
+## Tools and Techniques
+- **Data Processing**: Python, Excel
+- **Visualization**: Excel Charts & Macros
+- **Analysis Techniques**: Statistical analysis, trend identification, and correlation mapping.
 
 ## How to Use
 1. Open the dashboard file to explore the visualizations and insights.
