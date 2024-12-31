@@ -16,7 +16,7 @@ This project provides an in-depth analysis of state-level economic and demograph
 - **Identify** patterns and correlations between economic indicators.
 - **Present** findings via interactive dashboards to enable data-driven decision-making.
 
-## Tools and Technologies
+## Tools and Techniques
 - **Data Processing**: Python, Excel
 - **Visualization**: Excel Charts & Macros
 - **Analysis Techniques**: Statistical analysis, trend identification, and correlation mapping.
