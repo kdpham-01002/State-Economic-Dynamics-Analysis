@@ -3,28 +3,18 @@
 This project provides an in-depth analysis of state-level economic and demographic data across the United States. By leveraging interactive dashboards, it explores key metrics such as income, expenses, unemployment rates, cost of living, and population trends to highlight disparities and provide actionable insights for stakeholders.
 
 ## Table of Contents
-- [Project Objectives](#project-objectives)
-- [Key Features](#key-features)
+- [Introduction](#state-economic-dynamics-and-living-standards-analysis)
+- [Objectives](#objectives)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dataset Overview](#dataset-overview)
-- [Insights and Applications](#insights-and-applications)
 - [How to Use](#how-to-use)
 - [Project Highlights](#project-highlights)
 
-## Project Objectives
+## Objectives
 - **Analyze** state-specific income, expenses, and population data.
 - **Compare** unemployment rates, cost of living, and median income across states.
 - **Identify** patterns and correlations between economic indicators.
 - **Present** findings via interactive dashboards to enable data-driven decision-making.
-
-## Key Features
-- Comprehensive dashboards showcasing:
-    - Income and expense trends by state.
-    - State income vs. unemployment rate comparisons.
-    - Cost of living indices and median income trends from 2012 to 2023.
-    - Population trends and their impact on living standards.
-- Insights into regional disparities in economic conditions.
-- Data storytelling techniques to effectively communicate findings.
 
 ## Tools and Technologies
 - **Data Processing**: Python, Excel
@@ -37,11 +27,6 @@ The project integrates data from multiple sources:
 - **Income and Expense Data**: Trends in median income and state expenses.
 - **Unemployment Rates**: Historical unemployment data across U.S. states.
 - **Cost of Living**: 2023 cost of living indices.
-
-## Insights and Applications
-- Identified states with optimal income-to-expense ratios.
-- Highlighted regions with high unemployment rates but lower cost of living.
-- Provided recommendations for economic policymakers to target resource allocation effectively.
 
 ## How to Use
 1. Open the dashboard file to explore the visualizations and insights.
